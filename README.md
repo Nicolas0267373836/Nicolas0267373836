@@ -3,7 +3,8 @@
 I'm a passionate QA engineer who excels at finding bugs and being meticulous in my work. Organization and self-discipline are my key strengths.
 
 
-![image](https://github.com/Nicolas0267373836/Nicolas-Abud/assets/143104182/1a16ac95-6eab-4d84-ab36-ea8850858df7)
+![image](https://github.com/Nicolas0267373836/Nicolas0267373836/assets/143104182/aaf2871a-f88a-4faf-99b5-f3192ed36cb8)
+
 
 
 I have been working in a variety of projects but here are my 2 favorites. 
