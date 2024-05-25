@@ -3,7 +3,7 @@
 I'm a passionate QA engineer who excels at finding bugs and being meticulous in my work. Organization and self-discipline are my key strengths.
 
 
-![image](https://github.com/Nicolas0267373836/Nicolas0267373836/assets/143104182/085632f9-5568-4493-9813-e8e3bcfc92a8)
+file:///D:/descarga/Navy%20Geometric%20Technology%20LinkedIn%20Banner.png
 
 
 
