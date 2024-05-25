@@ -29,6 +29,8 @@ Mobile Testing: Ensuring mobile apps run smoothly across devices.
 
 🛠️ Languages and Tools 🛠️
 Here are some of the programming languages and tools I specialize in:
+
+
 <img src="https://github.com/Nicolas0267373836/Nicolas0267373836/assets/143104182/33eb1eb5-075f-4cbe-959c-8afc13c7cb72" alt="Python-Dark" width="50" height="50"/> 
 <img src="https://github.com/Nicolas0267373836/Nicolas0267373836/assets/143104182/f6a15bd7-3d57-4ede-822d-bd2ecbac20fd" alt="Github-Dark" width="50" height="50"/>
 <img src="https://github.com/Nicolas0267373836/Nicolas0267373836/assets/143104182/9e1e971a-4855-4e70-9e5b-b7194955f0c9" alt="Postman" width="50" height="50"/>
