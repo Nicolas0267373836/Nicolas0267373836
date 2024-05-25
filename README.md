@@ -3,7 +3,8 @@
 As a passionate QA engineer, I thrive on finding bugs and meticulously perfecting my work. My organizational skills and self-discipline are the backbone of my success. 💻✨
 
 
-file:///D:/descarga/Navy%20Geometric%20Technology%20LinkedIn%20Banner.png
+![image](https://github.com/Nicolas0267373836/Nicolas0267373836/assets/143104182/7ea901ee-7a6b-4faf-ac3a-d0c669836eab)
+
 
 
 🌟 Favorite Projects 🌟
