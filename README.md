@@ -17,7 +17,6 @@ https://github.com/Nicolas0267373836/qa-project-Urban-Grocers-app-es 🛒
 ### 🛠️ Skills & Expertise 🛠️
 Through my journey, I've honed a variety of skills that make me a well-rounded QA engineer:
 
-HTML & CSS: Crafting the web’s structure and style.
 MySQL & SQL: Managing and querying databases efficiently.
 Git: Version control to keep track of every change.
 Python: Automating tasks and testing.
